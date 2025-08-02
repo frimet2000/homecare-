@@ -1,6 +1,6 @@
 import './style.css'
 
-document.querySelector('#app').innerHTML = `
+document.querySelector('#root').innerHTML = `
   <div class="container">
     <header class="header">
       <h1>🏠 טיפול בבית</h1>
